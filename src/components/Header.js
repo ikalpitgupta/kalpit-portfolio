@@ -28,7 +28,7 @@ const Header = ({ darkMode, toggleDarkMode }) => {
       <nav className="container-max section-padding">
         <div className="flex items-center justify-between h-16">
           <div className="flex-shrink-0">
-            <a href="#" className="text-2xl font-bold text-gradient">
+            <a href="#home" className="text-2xl font-bold text-gradient">
               KG
             </a>
           </div>
